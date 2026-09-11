@@ -8,3 +8,5 @@ Welcome to my data analytics repository! Here I document all my continuous learn
 2. [Project 02: Ramen Ratings Analysis](./Project_02_ramen_ratings) - Exploratory data analysis, cleaning, and visualizations on global ramen ratings dataset.
 
 3. [Project 03: Telecom Customer Churn Analysis](./Project_03_Customer_Churn) - Exploratory data analysis, data cleaning, type conversions, and churn pattern visualizations on 7k+ telecom records.
+
+4. [Project 04: Student Exam Scores Analysis](./Project_04_Student_Exam_Scores) - Exploratory data analysis, demographic insights, and score distribution patterns on student exam performance.
