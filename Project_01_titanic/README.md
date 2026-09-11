@@ -69,8 +69,9 @@ The objective of this project is to analyze the Titanic passenger manifest to un
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/titanic-data-analysis.git
-   cd titanic-data-analysis
+   git clone https://github.com/Saadkhan-777/Data_Analytics_Portfolio.git
+   cd Data_Analytics_Portfolio/Project_01_titanic
+   
    ```
 
 2. **Install required packages:**

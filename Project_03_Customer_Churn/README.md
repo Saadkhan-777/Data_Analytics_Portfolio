@@ -38,8 +38,9 @@ The analysis uses the **Telecom Customer Churn** dataset containing 7,043 custom
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/telecom-customer-churn-analysis.git
-   cd telecom-customer-churn-analysis
+   git clone https://github.com/Saadkhan-777/Data_Analytics_Portfolio.git
+   cd Data_Analytics_Portfolio/Project_03_Customer_Churn
+
    ```
 
 2. **Install required dependencies:**

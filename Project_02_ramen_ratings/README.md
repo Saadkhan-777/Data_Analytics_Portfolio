@@ -69,8 +69,8 @@ The raw dataset (`ramen-ratings.csv`) contains **2,580 entries** and **7 initial
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ramen-ratings-analysis.git
-   cd ramen-ratings-analysis
+   git clone https://github.com/Saadkhan-777/Data_Analytics_Portfolio.git
+   cd Data_Analytics_Portfolio/Project_02_ramen_ratings
    ```
 2. Install required dependencies:
    ```bash
